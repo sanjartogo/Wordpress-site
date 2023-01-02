@@ -30,15 +30,15 @@
     margin-top: 14px;
     text-transform: uppercase;
 }
-
+html {
+    font-family: 'Roboto',sans-serif;
+}
 .title {
     color: #f9bf3b;
-    font-family: "Roboto - Black";
     font-size: 41px;
-    font-weight: 400;
+    font-weight: 900;
     font-style: normal;
     letter-spacing: normal;
-    /* line-height: 24px; */
     text-align: center;
     text-transform: uppercase;
     margin-top: 53px;
@@ -46,9 +46,8 @@
 
 .simple .title_big {
     color: #ffffff;
-    font-family: "Roboto - Black";
     font-size: 80px;
-    font-weight: 400;
+    font-weight: 900;
     font-style: normal;
     letter-spacing: normal;
     /* line-height: 24px; */
